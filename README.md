@@ -1,7 +1,7 @@
 # level_tracker
 
 <h1>Live link : </h1>
-<a href="https://levels-frontend.onrender.com/" target="_blank" />
+https://levels-frontend.onrender.com/
 
 #reposetry link 
-<a href="https://github.com/ash3076/levels_frontend" target="_blank" />
+https://github.com/ash3076/levels_frontend
